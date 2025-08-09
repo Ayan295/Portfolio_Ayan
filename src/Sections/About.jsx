@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import Card from '../Components/Card'
-import { Globe } from '../Components/globe';
+import { Globe } from '../Components/Globe';
 import CopyEmailButton from '../Components/CopyEmailButton';
 
 
